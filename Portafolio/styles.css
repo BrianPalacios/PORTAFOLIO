@@ -126,3 +126,14 @@ html {
     text-align: center;
     padding: 20px 0;
 }
+
+.sobremi .contenido-seccion p {
+    font: 18px;
+    line-height: 22px;
+    margin-bottom: 20px;
+}
+
+.sobremi .contenido-seccion p span {
+    color: #1CB698;
+    font-weight: bold;
+}
